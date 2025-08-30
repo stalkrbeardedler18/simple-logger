@@ -5,3 +5,9 @@ node_modules/
 
 # macOS specific file
 .DS_Store
+
+# Logs
+logs/
+
+# Environment variables file
+.env
