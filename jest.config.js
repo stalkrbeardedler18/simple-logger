@@ -1,3 +1,1 @@
-{
-    "testEnvironment": "node"
-}
+// Jest configuration file
