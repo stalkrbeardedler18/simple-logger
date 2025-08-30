@@ -1,0 +1,12 @@
+{
+    "name": "simple-logger",
+    "version": "1.0.0",
+    "description": "A lightweight and simple logging utility for JavaScript applications that emphasizes ease of use and clean syntax.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo 'No tests specified' && exit 0"
+    },
+    "keywords": ["logging", "logger", "utility"],
+    "author": "Your Name",
+    "license": "MIT"
+}
