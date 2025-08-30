@@ -11,3 +11,6 @@ logs/
 
 # Environment variables file
 .env
+
+# Temporary files
+*.tmp
