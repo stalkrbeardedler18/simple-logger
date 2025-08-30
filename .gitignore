@@ -1,2 +1,7 @@
+# Ignored files and directories
+
+# Node.js dependencies
 node_modules/
+
+# macOS specific file
 .DS_Store
